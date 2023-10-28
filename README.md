@@ -1,1 +1,7 @@
 # COOK_BOOK
+CookBook, recipe encyclopedia is a comprehensive online platform designed to serve as an encyclopedia of recipes, allowing users to explore, share, and discover a wide range of culinary delights and lost unnoticed recipes. The website incorporates various features to enhance the user experience and engagement. Users can share recipes through text and video, enabling them to provide detailed procedure and instructions. The platform supports videos in multiple languages, ensuring accessibility to a diverse audience. A unique code system allows for easy organization and retrieval of recipes. The website also includes a rating system, enabling users to filter and sort recipes based on popularity and user feedback. Additional features include user profiles with recipe collections, a rating and review system, social sharing integration, video transcriptions and translations, and the ability to write blogs about recipes. Users can follow their favourite recipe uploaders, and content can be filtered based on age groups, enabling access to specific types of recipes. Engaging with the community is encouraged through features such as comments, featured recipes, and contests. With user-friendly navigation, responsive design, and a visually appealing layout, The CookBook aims to create an immersive and enjoyable experience for culinary enthusiasts.
+
+Technologies used:   
+Stack serverside scripting - python, flask    
+UI - HTML, CSS, JAVA script   
+Data base - Mongodb
